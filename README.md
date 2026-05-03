@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ishan Rai</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ishan+Rai;AI+%7C+ML+Engineer;Computer+Vision+Developer;Cybersecurity+Enthusiast" />
 </h1>
