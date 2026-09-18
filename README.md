@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Ishan+Rai;AI+%7C+ML+Engineer;Computer+Vision+Developer;Cybersecurity+Enthusiast" />
 </h1>
 
-<h3 align="center">🚀 Turning Ideas into AI-Powered Reality</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishanrai0506&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
