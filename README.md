@@ -124,6 +124,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wmaa63t2oyj59sl0yrht5ynjf&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wmaa63t2oyj59sl0yrht5ynjf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
+---
+
 ## 📄 Resume
 
 🔗 https://drive.google.com/file/d/1oUBM-4LeErQZuX0L-jmaPOjwqaSlFSTS/view
