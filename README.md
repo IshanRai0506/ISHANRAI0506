@@ -123,6 +123,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+## 🌐 Spotify - Currently Playing
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wmaa63t2oyj59sl0yrht5ynjf&redirect=true">
