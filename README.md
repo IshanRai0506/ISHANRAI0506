@@ -118,8 +118,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
 ## 🐍 My GitHub Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/IshanRai0506/IshanRai0506/output/snake.svg)
