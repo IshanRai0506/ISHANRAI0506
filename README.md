@@ -87,14 +87,6 @@ Hey! I'm **Ishan Rai**, a Computer Science and Engineering student passionate ab
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/IshanRai0506/playvision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanRai0506&repo=playvision&theme=tokyonight&hide_border=true" alt="PlayVision repository card"/>
-</a>
-
-</div>
-
 ### ⚽ PlayVision – AI Football Analytics
 
 An AI-powered football analytics project for player detection, tracking and performance insights.
@@ -107,7 +99,13 @@ An AI-powered football analytics project for player detection, tracking and perf
 
 **Tech:** Python · YOLOv8 · OpenCV · ByteTrack · SIFT · RANSAC
 
-🔗 [Explore PlayVision →](https://github.com/IshanRai0506/playvision)
+<div align="center">
+
+<a href="https://github.com/IshanRai0506/playvision">
+  <img src="https://img.shields.io/badge/Explore-PlayVision-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore PlayVision"/>
+</a>
+
+</div>
 
 ### 🌦️ WeatherPulse
 
@@ -142,11 +140,17 @@ An AI-powered development project focused on helping users solve problems.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IshanRai0506&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
+<a href="https://github.com/IshanRai0506?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/IshanRai0506">
+  <img src="https://img.shields.io/badge/View-GitHub_Profile-536DFE?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile"/>
+</a>
 
 </div>
 
@@ -156,7 +160,13 @@ An AI-powered development project focused on helping users solve problems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanRai0506&theme=tokyo-night&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/IshanRai0506">
+  <img src="https://img.shields.io/badge/View_My-GitHub_Contributions-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View GitHub contributions"/>
+</a>
+
+<br/><br/>
+
+[View my contribution graph on GitHub →](https://github.com/IshanRai0506)
 
 </div>
 
