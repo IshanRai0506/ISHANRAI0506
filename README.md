@@ -126,15 +126,15 @@ An AI-powered development project focused on helping users solve problems.
 <div align="center">
 
 <a href="https://github.com/IshanRai0506">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishanrai0506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IshanRai0506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/IshanRai0506">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanrai0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshanRai0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ishanrai646&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=IshanRai0506&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak"/>
 
 <br/><br/>
 
@@ -158,20 +158,10 @@ An AI-powered development project focused on helping users solve problems.
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ishanrai0506/ishanrai0506/output/snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ishanrai0506/ishanrai0506/output/snake.svg">
-  <img
-    src="https://raw.githubusercontent.com/IshanRai0506/IshanRai0506/output/snake.svg"
-    width="100%"
-    alt="Snake animation eating GitHub contributions">
-</picture>
-
-![Snake animation](https://raw.githubusercontent.com/IshanRai0506/IshanRai0506/output/snake.svg)
+<img
+  src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg"
+  width="100%"
+  alt="Snake animation eating GitHub contributions"/>
 
 </div>
 
