@@ -120,6 +120,10 @@
 
 ## 🐍 Contribution Snake Animation
 
+## 🐍 My GitHub Contributions
+
+![Snake animation](https://raw.githubusercontent.com/IshanRai0506/IshanRai0506/output/snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishanrai0506/ishanrai0506/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/ishanrai0506/ishanrai0506/output/snake.svg">
