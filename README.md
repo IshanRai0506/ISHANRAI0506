@@ -1,10 +1,10 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&height=65&lines=Hey+%F0%9F%91%8B+I'm+Ishan+Rai;AI+%7C+ML+Engineer;Computer+Vision+Developer;Cybersecurity+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&height=65&lines=Hey+%F0%9F%91%8B+I'm+Ishan+Rai;AI+%7C+ML+Engineer;Computer+Vision+Developer;Cybersecurity+Enthusiast;Building+Intelligent+Systems" alt="Typing introduction"/>
 
   <p>
-    <b>Computer Science & Engineering | VIT Bhopal University</b>
+    <strong>Computer Science & Engineering | VIT Bhopal University</strong>
     <br/>
     Artificial Intelligence · Machine Learning · Computer Vision · Cybersecurity
   </p>
@@ -21,9 +21,11 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=IshanRai0506&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=IshanRai0506&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+  </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:536DFE,100:8A2BE2&height=120&section=header&text=Think.%20Build.%20Innovate.&fontSize=28&fontColor=ffffff&fontAlignY=40" width="100%" alt="Gradient banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:536DFE,100:8A2BE2&height=150&section=header&text=Think%20Build%20Innovate&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=40" width="100%" alt="Think Build Innovate banner"/>
 
 </div>
 
@@ -35,9 +37,9 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet-light.svg">
   <img
-    alt="My GitHub pet"
     src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet.svg"
-    width="100%">
+    width="100%"
+    alt="My GitHub pet"/>
 </picture>
 
 ---
@@ -49,7 +51,7 @@ Hey! I'm **Ishan Rai**, a Computer Science and Engineering student passionate ab
 - 🔭 Working on **PlayVision – AI Football Analytics**
 - 🌱 Learning **Deep Learning, MLOps & System Design**
 - 👯 Open for **AI / ML / Computer Vision collaborations**
-- 💬 Ask me about **Python, YOLO, OpenCV, ML, React**
+- 💬 Ask me about **Python, YOLO, OpenCV, ML and React**
 - 📫 **Email:** [ishanrai646@gmail.com](mailto:ishanrai646@gmail.com)
 - ⚡ *I turn real-world problems into intelligent systems.*
 
@@ -88,7 +90,7 @@ Hey! I'm **Ishan Rai**, a Computer Science and Engineering student passionate ab
 <div align="center">
 
 <a href="https://github.com/IshanRai0506/playvision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanRai0506&repo=playvision&theme=tokyonight&hide_border=true" alt="PlayVision project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanRai0506&repo=playvision&theme=tokyonight&hide_border=true" alt="PlayVision repository card"/>
 </a>
 
 </div>
@@ -105,7 +107,7 @@ An AI-powered football analytics project for player detection, tracking and perf
 
 **Tech:** Python · YOLOv8 · OpenCV · ByteTrack · SIFT · RANSAC
 
-🔗 [Explore PlayVision](https://github.com/IshanRai0506/playvision)
+🔗 [Explore PlayVision →](https://github.com/IshanRai0506/playvision)
 
 ### 🌦️ WeatherPulse
 
@@ -117,7 +119,7 @@ A React weather and news dashboard that brings useful information together in on
 
 An AI-powered development project focused on helping users solve problems.
 
-🔗 [Explore FixFlow AI](https://github.com/IshanRai0506/fixflow-ai)
+🔗 [Explore FixFlow AI →](https://github.com/IshanRai0506/fixflow-ai)
 
 ---
 
@@ -126,19 +128,25 @@ An AI-powered development project focused on helping users solve problems.
 <div align="center">
 
 <a href="https://github.com/IshanRai0506">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IshanRai0506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IshanRai0506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/IshanRai0506">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshanRai0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshanRai0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=IshanRai0506&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=IshanRai0506&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IshanRai0506&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IshanRai0506&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
 
 </div>
 
@@ -148,7 +156,7 @@ An AI-powered development project focused on helping users solve problems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanRai0506&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanRai0506&theme=tokyo-night&area=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -158,10 +166,18 @@ An AI-powered development project focused on helping users solve problems.
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg"
-  width="100%"
-  alt="Snake animation eating GitHub contributions"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg"
+    width="100%"
+    alt="Snake animation eating GitHub contributions"/>
+</picture>
 
 </div>
 
