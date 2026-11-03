@@ -1,291 +1,78 @@
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&height=65&lines=Hey+%F0%9F%91%8B+I'm+Ishan+Rai;AI+%7C+ML+Engineer;Computer+Vision+Developer;Cybersecurity+Enthusiast;Building+Intelligent+Systems" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=760&height=60&lines=Hey%2C+I'm+Ishan+Rai;Applied+AI+%26+Machine+Learning;Computer+Vision+%26+Software+Engineering" alt="Ishan Rai — applied AI, machine learning and software engineering" />
 
-  <p>
-    <strong>Computer Science & Engineering | VIT Bhopal University</strong>
-    <br/>
-    Artificial Intelligence · Machine Learning · Computer Vision · Cybersecurity
-  </p>
+### Computer Science & Engineering undergraduate · VIT Bhopal University
 
-  <p>
-    <a href="https://github.com/IshanRai0506">
-      <img src="https://img.shields.io/badge/GitHub-IshanRai0506-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-    </a>
-    <a href="mailto:ishanrai646@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://linkedin.com/in/ishanrai-tech">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-  </p>
+Building practical software with **AI, computer vision and full-stack engineering**.
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=IshanRai0506&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:536DFE,100:8A2BE2&height=150&section=header&text=Think%20Build%20Innovate&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=40" width="100%" alt="Think Build Innovate banner"/>
-
-</div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet-light.svg">
-  <img
-    src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet.svg"
-    width="100%"
-    alt="My GitHub pet"/>
-</picture>
-
----
-
-## 🧠 About Me
-
-Hey! I'm **Ishan Rai**, a Computer Science and Engineering student passionate about building intelligent, practical solutions using AI and software engineering.
-
-- 🔭 Working on **PlayVision – AI Football Analytics**
-- 🌱 Learning **Deep Learning, MLOps & System Design**
-- 👯 Open for **AI / ML / Computer Vision collaborations**
-- 💬 Ask me about **Python, YOLO, OpenCV, ML and React**
-- 📫 **Email:** [ishanrai646@gmail.com](mailto:ishanrai646@gmail.com)
-- ⚡ *I turn real-world problems into intelligent systems.*
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js&theme=dark" alt="Programming languages"/>
-
-### 🧠 AI, ML & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI and computer vision"/>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" alt="Web development"/>
-
-### ☁️ Cloud, Databases & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,mysql,git,github&theme=dark" alt="Cloud and developer tools"/>
-
-### 🎨 Design
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
+<p>
+  <a href="mailto:ishanrai646@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ishanrai-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.leetcode.com/ishanrai646"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode" /></a>
+</p>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## About
 
-### ⚽ PlayVision – AI Football Analytics
+I'm **Ishan Rai**, a B.Tech Computer Science student interested in turning real-world problems into useful, well-engineered products.
 
-An AI-powered football analytics project for player detection, tracking and performance insights.
+My work spans applied machine learning, computer vision, backend systems and web applications. I enjoy taking a project from an idea and prototype through to an implementation that people can actually use.
 
-- 🎯 **Reported detection accuracy:** 92%
-- ⚡ **Reported processing speed:** 20 FPS
-- 🎥 **Detection and tracking:** YOLOv8 and ByteTrack
-- 🧩 **Computer vision:** SIFT and RANSAC
-- 📊 **Goal:** Convert match footage into useful performance insights
+- **Focus:** Applied AI/ML, computer vision and software engineering
+- **Languages:** Python, Java, C++, TypeScript, JavaScript and SQL
+- **Currently exploring:** Deep learning, model deployment and system design
+- **Open to:** Meaningful engineering collaborations and opportunities
 
-**Tech:** Python · YOLOv8 · OpenCV · ByteTrack · SIFT · RANSAC
+## Tech stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,sql" alt="Programming languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and computer vision" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,mysql,redis" alt="Web development and databases" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,figma" alt="Cloud and developer tools" />
+</p>
 
-<a href="https://github.com/IshanRai0506/playvision">
-  <img src="https://img.shields.io/badge/Explore-PlayVision-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore PlayVision"/>
-</a>
+## Selected projects
 
-</div>
+### [PlayVision · AI Football Analytics](https://github.com/IshanRai0506/PlayVision_Football_Stats_Tracker)
 
-### 🌦️ WeatherPulse
+A computer-vision pipeline for analysing football match footage. It detects and tracks players, referees and the ball, identifies teams, maps player positions onto the pitch and derives tactical metrics.
 
-A React weather and news dashboard that brings useful information together in one interface.
+**Built with:** Python · YOLOv8 · ByteTrack · SigLIP · UMAP · OpenCV · PyTorch
 
-**Tech:** React · TypeScript · APIs
+### [Viksit · Intelligent Document Redaction](https://github.com/IshanRai0506/Viksit-Intelligent-Document-Redaction)
 
-### 🛠️ FixFlow AI
+A document privacy tool that combines OCR, named-entity recognition and object detection to identify and redact sensitive information from PDFs and images. Includes side-by-side review and a structured audit log.
 
-An AI-powered development project focused on helping users solve problems.
+**Built with:** Python · Flask · spaCy · Tesseract OCR · Docker
 
-🔗 [Explore FixFlow AI →](https://github.com/IshanRai0506/fixflow-ai)
+### [OsBridgeLCCA · Bridge Life-Cycle Cost Assessment](https://github.com/IshanRai0506/OsBridgeLCCAcustom)
 
----
+An engineering application for bridge life-cycle cost assessment, bringing together cost estimation, traffic analysis, emissions calculations, visualisation and report generation.
 
-## 📊 GitHub Analytics
+**Built with:** Python · Django REST Framework · PyQt5 · React · Plotly · PyLaTeX
 
-<div align="center">
+### [Structural Beam Analysis Report Generator](https://github.com/IshanRai0506/PyLateX-Report--FOSSEE)
 
-<a href="https://github.com/IshanRai0506">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IshanRai0506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/IshanRai0506">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshanRai0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
-</a>
+A Python tool that reads beam-analysis data from Excel and generates formatted PDF reports with shear-force and bending-moment diagrams.
 
-<br/><br/>
+**Built with:** Python · PyLaTeX · Excel · Matplotlib
 
-<img src="https://streak-stats.demolab.com?user=IshanRai0506&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
+## Find me online
 
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/IshanRai0506?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
-</a>
-
-<a href="https://github.com/IshanRai0506">
-  <img src="https://img.shields.io/badge/View-GitHub_Profile-536DFE?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile"/>
-</a>
-
-</div>
+- **LinkedIn:** [linkedin.com/in/ishanrai-tech](https://linkedin.com/in/ishanrai-tech)
+- **LeetCode:** [leetcode.com/ishanrai646](https://www.leetcode.com/ishanrai646)
+- **Email:** [ishanrai646@gmail.com](mailto:ishanrai646@gmail.com)
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/IshanRai0506">
-  <img src="https://img.shields.io/badge/View_My-GitHub_Contributions-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View GitHub contributions"/>
-</a>
-
-<br/><br/>
-
-[View my contribution graph on GitHub →](https://github.com/IshanRai0506)
-
-</div>
-
----
-
-## 🐍 My GitHub Contributions
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg">
-  <img
-    src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg"
-    width="100%"
-    alt="Snake animation eating GitHub contributions"/>
-</picture>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ishanrai-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/_ishan_rai">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://medium.com/@ishanrai646">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://www.leetcode.com/ishanrai646">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<br/>
-
-<a href="https://kaggle.com/ishan_rai55">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-<a href="https://stackoverflow.com/users/32689804">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-</a>
-<a href="https://www.hackerrank.com/ishanrai646">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-<br/>
-
-<a href="https://instagram.com/_ishan_rai">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.behance.net/ishanrai6">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-</a>
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-<a href="https://medium.com/@ishanrai646">
-  <img src="https://img.shields.io/badge/Read_My_Articles-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium articles"/>
-</a>
-
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎧 Spotify – Currently Playing
-
-<div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wmaa63t2oyj59sl0yrht5ynjf&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wmaa63t2oyj59sl0yrht5ynjf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" width="350" alt="Spotify currently playing"/>
-</a>
-
-</div>
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="https://drive.google.com/file/d/1oUBM-4LeErQZuX0L-jmaPOjwqaSlFSTS/view">
-  <img src="https://img.shields.io/badge/View_My_Resume-00F7FF?style=for-the-badge&logo=googledrive&logoColor=black" alt="View resume"/>
-</a>
-
-</div>
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
-**Keep learning. Keep building. Keep shipping.** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:536DFE,100:8A2BE2&height=120&section=footer" width="100%" alt="Footer banner"/>
-
-⭐ If you find my projects interesting, consider giving them a star!
-
-<a href="https://github.com/IshanRai0506">Ishan Rai · GitHub</a>
-
-</div>
+<p align="center">
+  <i>Learn continuously. Build thoughtfully. Ship useful things.</i>
+</p>
