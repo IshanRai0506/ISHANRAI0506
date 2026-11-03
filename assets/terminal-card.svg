@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ishan Rai — animated developer profile card</title>
+  <desc id="desc">A neon terminal-themed card introducing Ishan Rai, focused on AI, machine learning, computer vision and building projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10142b"/>
+      <stop offset=".55" stop-color="#111a33"/>
+      <stop offset="1" stop-color="#21113c"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#47e9ff"/>
+      <stop offset=".52" stop-color="#8a7dff"/>
+      <stop offset="1" stop-color="#ff67bd"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101a30"/>
+      <stop offset="1" stop-color="#17172e"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#8da2ff" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="984" height="324" rx="24" fill="url(#bg)" stroke="#7d7cff" stroke-opacity=".55" stroke-width="1.5"/>
+  <rect x="8" y="8" width="984" height="324" rx="24" fill="url(#grid)"/>
+  <circle cx="880" cy="60" r="110" fill="#8c56ff" opacity=".13" filter="url(#soft)"/>
+  <circle cx="80" cy="310" r="90" fill="#19d9e8" opacity=".10" filter="url(#soft)"/>
+  <path d="M30 260 C210 210 290 330 470 275 S760 225 970 275" fill="none" stroke="url(#neon)" stroke-opacity=".18" stroke-width="2"/>
+
+  <g transform="translate(36 30)">
+    <circle cx="8" cy="8" r="5" fill="#ff668e"/>
+    <circle cx="27" cy="8" r="5" fill="#ffd166"/>
+    <circle cx="46" cy="8" r="5" fill="#5ee6b4"/>
+    <text x="68" y="13" fill="#92a4c9" font-family="monospace" font-size="12" letter-spacing="2">ISHAN.RAI / PROFILE.EXE</text>
+  </g>
+
+  <g transform="translate(750 25)">
+    <rect width="210" height="30" rx="15" fill="#1d2940" stroke="#4ce6bd" stroke-opacity=".65"/>
+    <circle cx="16" cy="15" r="4" fill="#4ce6bd">
+      <animate attributeName="opacity" values="1;.28;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="29" y="19" font-family="monospace" font-size="11" fill="#a4f5db" letter-spacing="1">CURRENT MODE: BUILD</text>
+  </g>
+
+  <g transform="translate(48 95)">
+    <text x="0" y="0" fill="#aab7d6" font-family="monospace" font-size="14" letter-spacing="2">HELLO, INTERNET</text>
+    <text x="0" y="55" fill="#f5f7ff" font-family="Verdana, Arial, sans-serif" font-size="43" font-weight="700">hey, i'm ishan.</text>
+    <text x="0" y="91" fill="url(#neon)" font-family="Verdana, Arial, sans-serif" font-size="25" font-weight="700">ideas in. cool stuff out.</text>
+    <text x="0" y="123" fill="#b9c4df" font-family="monospace" font-size="13" letter-spacing=".7">CS UNDERGRAD  /  AI + ML  /  COMPUTER VISION</text>
+  </g>
+
+  <g transform="translate(48 251)">
+    <rect width="535" height="49" rx="11" fill="#0b1020" stroke="#58638f" stroke-opacity=".55"/>
+    <text x="17" y="20" font-family="monospace" font-size="13" fill="#54e5c2">$</text>
+    <text x="34" y="20" font-family="monospace" font-size="13" fill="#e6ebff">python build_cool_stuff.py</text>
+    <rect x="249" y="8" width="8" height="16" rx="1" fill="#55e8d0" class="caret">
+      <animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <text x="17" y="38" font-family="monospace" font-size="10" fill="#8d9dbc">BUILD  /  BREAK  /  DEBUG  /  REPEAT</text>
+  </g>
+
+  <g transform="translate(675 93)">
+    <rect x="0" y="0" width="270" height="190" rx="17" fill="url(#panel)" stroke="#6676ad" stroke-opacity=".55"/>
+    <path d="M0 39H270" stroke="#6676ad" stroke-opacity=".35"/>
+    <circle cx="17" cy="19" r="4" fill="#ff668e"/>
+    <circle cx="31" cy="19" r="4" fill="#ffd166"/>
+    <circle cx="45" cy="19" r="4" fill="#5ee6b4"/>
+    <text x="62" y="23" font-family="monospace" font-size="10" fill="#95a6c8">side_quests.sh</text>
+
+    <g font-family="monospace" font-size="12">
+      <text x="18" y="68" fill="#57e4c1">✓</text><text x="36" y="68" fill="#d6def4">AI / ML experiments</text>
+      <text x="18" y="96" fill="#57e4c1">✓</text><text x="36" y="96" fill="#d6def4">computer vision builds</text>
+      <text x="18" y="124" fill="#57e4c1">✓</text><text x="36" y="124" fill="#d6def4">full-stack side quests</text>
+      <text x="18" y="152" fill="#ffca75">!</text><text x="36" y="152" fill="#d6def4">coffee.exe still running</text>
+    </g>
+  </g>
+
+  <g class="floaty" transform="translate(900 285)">
+    <circle cx="0" cy="0" r="22" fill="#292250" stroke="#8c7bff" stroke-width="1.5"/>
+    <circle cx="-7" cy="-3" r="2.5" fill="#f5f2ff"/>
+    <circle cx="7" cy="-3" r="2.5" fill="#f5f2ff"/>
+    <path d="M-6 7 Q0 13 6 7" fill="none" stroke="#f5f2ff" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0 -22V-30" stroke="#8c7bff" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="-33" r="3" fill="#ff79c6" filter="url(#glow)"/>
+  </g>
+  <style>
+    .floaty { animation: bob 3.6s ease-in-out infinite; transform-origin: 900px 285px; }
+    .caret { animation: blink 1.05s steps(2,start) infinite; }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes blink { to { opacity: 0; } }
+  </style>
+</svg>
