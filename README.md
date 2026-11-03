@@ -18,7 +18,7 @@ Artificial Intelligence · Machine Learning · Computer Vision · Software Engin
 <div align="center">
 
 <!-- Animated terminal-style identity card with live public GitHub stats and a capybara-themed contribution panel -->
-<img src="https://terminal-identity-opal.vercel.app/api?name=Ishan%20Rai&username=IshanRai0506&role=AI%2FML%20%26%20Computer%20Vision%20Builder&tagline=Building%20useful%20things%2C%20one%20side%20quest%20at%20a%20time.&status=currently%20in%20my%20builder%20era&command=python%20build_cool_stuff.py&theme=obsidian/velvet&avatar=IR&pattern=pulse&width=980&height=auto&motion=boot&showContribs=on&contribTheme=capybara_onsen&contribRange=16w&contribMode=focus&showLangs=on&langCount=5&langStyle=icons" width="100%" alt="Animated terminal identity card with GitHub stats and capybara contribution art"/>
+<img src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/assets/terminal-card.svg" width="100%" alt="Custom animated neon terminal profile card"/>
 
 <sub>✨ currently in my builder era · powered by caffeine, curiosity & commits</sub>
 
