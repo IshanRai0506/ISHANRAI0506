@@ -111,15 +111,7 @@ Reads beam-analysis data from Excel and generates formatted PDF reports with she
 **Tech:** Python · PyLaTeX · Excel
 
 </td>
-<td width="50%" valign="top">
 
-### 🌦️ [Weather App](https://github.com/IshanRai0506/weather-app)
-
-A weather application from my web-development projects.
-
-**Tech:** Web Development
-
-</td>
 </tr>
 </table>
 
