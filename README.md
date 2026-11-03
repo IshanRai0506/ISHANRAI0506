@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&height=65&lines=Hey+%F0%9F%91%8B+I'm+Ishan+Rai;AI+%7C+ML+Enthusiast;Computer+Vision+Developer;Building+Intelligent+Systems" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&height=65&lines=Hey+%F0%9F%91%8B+I'm+Ishan+Rai;AI%2FML+%26+Computer+Vision;Building+cool+stuff+with+code;Debug+%E2%86%92+Learn+%E2%86%92+Ship+%E2%86%92+Repeat" alt="Typing introduction"/>
 
 <p><strong>Computer Science & Engineering | VIT Bhopal University</strong><br/>
 Artificial Intelligence · Machine Learning · Computer Vision · Software Engineering</p>
@@ -15,6 +15,15 @@ Artificial Intelligence · Machine Learning · Computer Vision · Software Engin
 
 </div>
 
+<div align="center">
+
+<!-- Animated terminal-style identity card with live public GitHub stats and a capybara-themed contribution panel -->
+<img src="https://terminal-identity-opal.vercel.app/api?name=Ishan%20Rai&username=IshanRai0506&role=AI%2FML%20%26%20Computer%20Vision%20Builder&tagline=Building%20useful%20things%2C%20one%20side%20quest%20at%20a%20time.&status=currently%20in%20my%20builder%20era&command=python%20build_cool_stuff.py&theme=obsidian/velvet&avatar=IR&pattern=pulse&width=980&height=auto&motion=boot&showContribs=on&contribTheme=capybara_onsen&contribRange=16w&contribMode=focus&showLangs=on&langCount=5&langStyle=icons" width="100%" alt="Animated terminal identity card with GitHub stats and capybara contribution art"/>
+
+<sub>✨ currently in my builder era · powered by caffeine, curiosity & commits</sub>
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet-light.svg">
@@ -25,13 +34,31 @@ Artificial Intelligence · Machine Learning · Computer Vision · Software Engin
 
 ## 🧠 About Me
 
-Hey! I'm **Ishan Rai**, a Computer Science and Engineering student interested in building practical solutions with AI and software engineering.
+Hey! I'm **Ishan Rai** — a CSE student in my **builder era**. I like turning random ideas into real projects with AI, computer vision and software engineering. Basically: less "one day I'll build it", more `git commit`.
 
 - 🔭 Exploring **AI/ML, computer vision and intelligent applications**
 - ⚽ Built **PlayVision**, an AI-powered football analytics project
 - 🌱 Learning **deep learning, model deployment and system design**
 - 🤝 Open to meaningful AI/ML and software development collaborations
 - 💬 Ask me about **Python, Java, YOLO, OpenCV, machine learning and React**
+
+## 🧃 Developer Lore
+
+| Status | Current lore |
+|---|---|
+| 🎮 **Main quest** | Build useful things that solve real problems |
+| 🧩 **Side quests** | AI experiments, football analytics & developer tools |
+| 🧰 **Loadout** | Python · Java · TypeScript · PyTorch · OpenCV |
+| 🐛 **Final boss** | The bug that disappears when I add `print()` |
+| 🚀 **Default loop** | Build → Break → Debug → Learn → Ship |
+
+> *I don't always push first try. But when I do, CI finds a way.*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MODE-builder%20era-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" alt="Builder era"/>
+  <img src="https://img.shields.io/badge/BUGS-not%20a%20feature-FF4D8D?style=for-the-badge&logo=bugatti&logoColor=white" alt="Bugs are not a feature"/>
+  <img src="https://img.shields.io/badge/VIBE-curious%20%26%20shipping-00C9A7?style=for-the-badge&logo=rocket&logoColor=white" alt="Curious and shipping"/>
+</div>
 
 ---
 
