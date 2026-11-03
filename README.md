@@ -1,78 +1,206 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=760&height=60&lines=Hey%2C+I'm+Ishan+Rai;Applied+AI+%26+Machine+Learning;Computer+Vision+%26+Software+Engineering" alt="Ishan Rai — applied AI, machine learning and software engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&height=65&lines=Hey+%F0%9F%91%8B+I'm+Ishan+Rai;AI+%7C+ML+Enthusiast;Computer+Vision+Developer;Building+Intelligent+Systems" alt="Typing introduction"/>
 
-### Computer Science & Engineering undergraduate · VIT Bhopal University
+<p><strong>Computer Science & Engineering | VIT Bhopal University</strong><br/>
+Artificial Intelligence · Machine Learning · Computer Vision · Software Engineering</p>
 
-Building practical software with **AI, computer vision and full-stack engineering**.
+<a href="mailto:ishanrai646@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/ishanrai-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://github.com/IshanRai0506"><img src="https://img.shields.io/badge/GitHub-IshanRai0506-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
-<p>
-  <a href="mailto:ishanrai646@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ishanrai-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.leetcode.com/ishanrai646"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=IshanRai0506&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:536DFE,100:8A2BE2&height=150&section=header&text=Think%20%E2%80%A2%20Build%20%E2%80%A2%20Innovate&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=40" width="100%" alt="Animated gradient banner"/>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet-light.svg">
+  <img src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/main/dist/pet.svg" width="100%" alt="GitHub pet"/>
+</picture>
+
+---
+
+## 🧠 About Me
+
+Hey! I'm **Ishan Rai**, a Computer Science and Engineering student interested in building practical solutions with AI and software engineering.
+
+- 🔭 Exploring **AI/ML, computer vision and intelligent applications**
+- ⚽ Built **PlayVision**, an AI-powered football analytics project
+- 🌱 Learning **deep learning, model deployment and system design**
+- 🤝 Open to meaningful AI/ML and software development collaborations
+- 💬 Ask me about **Python, Java, YOLO, OpenCV, machine learning and React**
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,mysql&theme=dark" alt="Programming languages"/>
+
+### 🧠 AI, ML & Computer Vision
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI and computer vision"/>
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" alt="Web development"/>
+
+### ☁️ Cloud, Databases & Developer Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,postgres,git,github&theme=dark" alt="Cloud and developer tools"/>
+
+### 🎨 Design
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
 
 </div>
 
 ---
 
-## About
+## 🏆 Featured Projects
 
-I'm **Ishan Rai**, a B.Tech Computer Science student interested in turning real-world problems into useful, well-engineered products.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My work spans applied machine learning, computer vision, backend systems and web applications. I enjoy taking a project from an idea and prototype through to an implementation that people can actually use.
+### ⚽ [PlayVision · AI Football Analytics](https://github.com/IshanRai0506/PlayVision_Football_Stats_Tracker)
 
-- **Focus:** Applied AI/ML, computer vision and software engineering
-- **Languages:** Python, Java, C++, TypeScript, JavaScript and SQL
-- **Currently exploring:** Deep learning, model deployment and system design
-- **Open to:** Meaningful engineering collaborations and opportunities
+Computer-vision pipeline for detecting and tracking players, referees and the ball, identifying teams, mapping pitch positions and deriving tactical insights.
 
-## Tech stack
+**Tech:** Python · YOLOv8 · ByteTrack · SigLIP · UMAP · OpenCV · PyTorch
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,sql" alt="Programming languages" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and computer vision" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,mysql,redis" alt="Web development and databases" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,figma" alt="Cloud and developer tools" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-## Selected projects
+### 🛡️ [Viksit · Intelligent Document Redaction](https://github.com/IshanRai0506/Viksit-Intelligent-Document-Redaction)
 
-### [PlayVision · AI Football Analytics](https://github.com/IshanRai0506/PlayVision_Football_Stats_Tracker)
+Privacy-focused document redaction tool combining OCR, named-entity recognition and object detection to identify sensitive information.
 
-A computer-vision pipeline for analysing football match footage. It detects and tracks players, referees and the ball, identifies teams, maps player positions onto the pitch and derives tactical metrics.
+**Tech:** Python · Flask · spaCy · Tesseract OCR · Docker
 
-**Built with:** Python · YOLOv8 · ByteTrack · SigLIP · UMAP · OpenCV · PyTorch
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [Viksit · Intelligent Document Redaction](https://github.com/IshanRai0506/Viksit-Intelligent-Document-Redaction)
+### 🌉 [OsBridgeLCCA · Bridge Cost Assessment](https://github.com/IshanRai0506/OsBridgeLCCAcustom)
 
-A document privacy tool that combines OCR, named-entity recognition and object detection to identify and redact sensitive information from PDFs and images. Includes side-by-side review and a structured audit log.
+Engineering application for bridge life-cycle cost assessment, traffic analysis, emissions estimation, visualisation and report generation.
 
-**Built with:** Python · Flask · spaCy · Tesseract OCR · Docker
+**Tech:** Python · Django REST Framework · PyQt5 · React · Plotly · PyLaTeX
 
-### [OsBridgeLCCA · Bridge Life-Cycle Cost Assessment](https://github.com/IshanRai0506/OsBridgeLCCAcustom)
+</td>
+<td width="50%" valign="top">
 
-An engineering application for bridge life-cycle cost assessment, bringing together cost estimation, traffic analysis, emissions calculations, visualisation and report generation.
+### 🖐️ [AeroGest · Gesture Control](https://github.com/IshanRai0506/AeroGest)
 
-**Built with:** Python · Django REST Framework · PyQt5 · React · Plotly · PyLaTeX
+Webcam-based gesture-control project for mouse interaction and system volume and brightness control.
 
-### [Structural Beam Analysis Report Generator](https://github.com/IshanRai0506/PyLateX-Report--FOSSEE)
+**Tech:** Python · Computer Vision · Gesture Recognition
 
-A Python tool that reads beam-analysis data from Excel and generates formatted PDF reports with shear-force and bending-moment diagrams.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Built with:** Python · PyLaTeX · Excel · Matplotlib
+### 📄 [Structural Beam Analysis Report Generator](https://github.com/IshanRai0506/PyLateX-Report--FOSSEE)
 
-## Find me online
+Reads beam-analysis data from Excel and generates formatted PDF reports with shear-force and bending-moment diagrams.
 
-- **LinkedIn:** [linkedin.com/in/ishanrai-tech](https://linkedin.com/in/ishanrai-tech)
-- **LeetCode:** [leetcode.com/ishanrai646](https://www.leetcode.com/ishanrai646)
-- **Email:** [ishanrai646@gmail.com](mailto:ishanrai646@gmail.com)
+**Tech:** Python · PyLaTeX · Excel
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ [Weather App](https://github.com/IshanRai0506/weather-app)
+
+A weather application from my web-development projects.
+
+**Tech:** Web Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>Learn continuously. Build thoughtfully. Ship useful things.</i>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/IshanRai0506">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=IshanRai0506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/IshanRai0506">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshanRai0506&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=IshanRai0506&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IshanRai0506&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/IshanRai0506/ISHANRAI0506/output/snake.svg" width="100%" alt="Animated contribution snake"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ishanrai-tech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.leetcode.com/ishanrai646"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://kaggle.com/ishan_rai55"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://www.hackerrank.com/ishanrai646"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://twitter.com/_ishan_rai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://medium.com/@ishanrai646"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+
+</div>
+
+---
+
+## 🎧 Spotify · Now Playing
+
+<div align="center">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wmaa63t2oyj59sl0yrht5ynjf&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wmaa63t2oyj59sl0yrht5ynjf&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=false" width="350" alt="Spotify currently playing"/>
+</a>
+</div>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+<a href="https://drive.google.com/file/d/1oUBM-4LeErQZuX0L-jmaPOjwqaSlFSTS/view">
+<img src="https://img.shields.io/badge/View_My_Resume-00F7FF?style=for-the-badge&logo=googledrive&logoColor=black" alt="View my resume"/>
+</a>
+</div>
+
+---
+
+<div align="center">
+
+*“First, solve the problem. Then, write the code.”*
+
+**Keep learning. Keep building. Keep shipping.** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:536DFE,100:8A2BE2&height=120&section=footer" width="100%" alt="Animated footer banner"/>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+<a href="https://github.com/IshanRai0506">Ishan Rai · GitHub</a>
+
+</div>
