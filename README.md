@@ -87,61 +87,57 @@ Hey! I'm **Ishan Rai** — a CSE student in my **builder era**. I like turning r
 
 ## 🏆 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### ⚽ [PlayVision · AI Football Analytics](https://github.com/IshanRai0506/PlayVision_Football_Stats_Tracker)
+<a href="https://github.com/IshanRai0506/PlayVision_Football_Stats_Tracker">
+  <img src="https://raw.githubusercontent.com/IshanRai0506/PlayVision_Football_Stats_Tracker/main/assets/playvision-banner.svg" width="100%" alt="PlayVision AI football analytics"/>
+</a>
 
-Computer-vision pipeline for detecting and tracking players, referees and the ball, identifying teams, mapping pitch positions and deriving tactical insights.
+**[PlayVision · AI Football Analytics](https://github.com/IshanRai0506/PlayVision_Football_Stats_Tracker)**
 
-**Tech:** Python · YOLOv8 · ByteTrack · SigLIP · UMAP · OpenCV · PyTorch
+Computer vision for player and ball tracking, team identification, pitch mapping and tactical metrics.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🛡️ [Viksit · Intelligent Document Redaction](https://github.com/IshanRai0506/Viksit-Intelligent-Document-Redaction)
+<a href="https://github.com/IshanRai0506/Viksit-Intelligent-Document-Redaction">
+  <img src="https://raw.githubusercontent.com/IshanRai0506/Viksit-Intelligent-Document-Redaction/main/assets/viksit-banner.svg" width="100%" alt="Viksit intelligent document redaction"/>
+</a>
 
-Privacy-focused document redaction tool combining OCR, named-entity recognition and object detection to identify sensitive information.
+**[Viksit · Intelligent Document Redaction](https://github.com/IshanRai0506/Viksit-Intelligent-Document-Redaction)**
 
-**Tech:** Python · Flask · spaCy · Tesseract OCR · Docker
+A privacy-focused document workflow combining OCR, NER and object detection.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🌉 [OsBridgeLCCA · Bridge Cost Assessment](https://github.com/IshanRai0506/OsBridgeLCCAcustom)
+<a href="https://github.com/IshanRai0506/OsBridgeLCCAcustom">
+  <img src="https://raw.githubusercontent.com/IshanRai0506/OsBridgeLCCAcustom/master/assets/osbridgelcca-banner.svg" width="100%" alt="OsBridgeLCCA bridge life-cycle cost assessment"/>
+</a>
 
-Engineering application for bridge life-cycle cost assessment, traffic analysis, emissions estimation, visualisation and report generation.
+**[OsBridgeLCCA · Bridge Life-Cycle Cost Assessment](https://github.com/IshanRai0506/OsBridgeLCCAcustom)**
 
-**Tech:** Python · Django REST Framework · PyQt5 · React · Plotly · PyLaTeX
+Engineering tools for cost analysis, traffic, emissions and reporting.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🖐️ [AeroGest · Gesture Control](https://github.com/IshanRai0506/AeroGest)
+<a href="https://github.com/IshanRai0506/AeroGest">
+  <img src="https://raw.githubusercontent.com/IshanRai0506/AeroGest/main/assets/aerogest-banner.svg" width="100%" alt="AeroGest gesture control"/>
+</a>
 
-Webcam-based gesture-control project for mouse interaction and system volume and brightness control.
+**[AeroGest · Gesture Control](https://github.com/IshanRai0506/AeroGest)**
 
-**Tech:** Python · Computer Vision · Gesture Recognition
+Webcam-based gesture interaction for mouse, volume and brightness controls.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 📄 [Structural Beam Analysis Report Generator](https://github.com/IshanRai0506/PyLateX-Report--FOSSEE)
+<a href="https://github.com/IshanRai0506/PyLateX-Report--FOSSEE">
+  <img src="https://raw.githubusercontent.com/IshanRai0506/PyLateX-Report--FOSSEE/main/assets/beam-report-banner.svg" width="100%" alt="Structural beam analysis report generator"/>
+</a>
 
-Reads beam-analysis data from Excel and generates formatted PDF reports with shear-force and bending-moment diagrams.
+**[Structural Beam Analysis Report Generator](https://github.com/IshanRai0506/PyLateX-Report--FOSSEE)**
 
-**Tech:** Python · PyLaTeX · Excel
+Automated engineering PDF reports with shear-force and bending-moment diagrams.
 
-</td>
-
-</tr>
-</table>
-
+</div>
 ---
 
 ## 📊 GitHub Analytics
